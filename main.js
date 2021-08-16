@@ -19,7 +19,7 @@ var item=document.getElementById("add_item").value;
 menulist.sort();
 htmldata = "<section class='cardsformat'>"
 for(var i = 0; i<menulist.length; i++){
-htmldata = htmldata + '<div class="cards">' + '<img src="images/pizzaImg.png"/>'
+htmldata = htmldata + '<div class="cards">' + '<img src="pizzaImg.png"/>'
                     + menulist[i] + '</div>'
 }
 htmldata = htmldata + "</section>"
