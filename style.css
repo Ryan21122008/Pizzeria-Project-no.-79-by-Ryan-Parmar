@@ -1,6 +1,7 @@
 body{
 	background-image: "Bg.jpg";
     font-family:sans-serif;
+	color:black;
 }
 
 .topnav {
@@ -13,7 +14,7 @@ body{
   
   .topnav a {
 	float: left;
-	color: #f2f2f2;
+	color: #ffffff;
 	font-family: sans-serif;
 	text-align: center;
 	padding: 14px 16px;
@@ -44,7 +45,7 @@ body{
 	float: right;
 	width: 50%;
 	padding: 160px;
-	color: honeydew;
+	color: rgb(0, 0, 0);
 	font-size: 25px;
 	font-family: sans-serif;
   }
@@ -70,7 +71,7 @@ body{
 	float: left;
 	width: 80%;
 	padding: 5px;
-	color: honeydew;
+	color: rgb(0, 0, 0);
 	font-size: 25px;
 	font-family: sans-serif;
   }
@@ -92,7 +93,7 @@ body{
 	line-height: 20px;
 	width: 80%;
 	height: 50px;
-	color: #ffffff;
+	color: #000000;
     background: none;
     border: none;
     border-bottom: 1px solid rgb(223, 205, 205);
@@ -103,7 +104,7 @@ body{
     transition: text-indent 0.4s 0.4s ease; 
     text-indent: -100%;
 	opacity: 1;
-	color: white;
+	color: rgb(0, 0, 0);
  }
 
 #im1{
